@@ -43,7 +43,8 @@ scikit-learn
 
 ## Usage
 
-1. Download `survey_results_public.csv` from Stack Overflow Developer Survey 2025
-2. Place it in the project directory
-3. Run `stackoverflow_psm_2025.ipynb`
+1. Download the dataset from https://survey.stackoverflow.co/
+2. Rename it to `survey_results_public.csv`
+3. Place it in the project directory
+4. Run `stackoverflow_psm_2025.ipynb`
 
